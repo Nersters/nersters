@@ -9,6 +9,10 @@
     <img width="42%" src="https://github-readme-stats.vercel.app/api?username=nersters&showicons=true&theme=dracula&include_all_commits-true&count_private=true"/> 
     <img width="50%" src="">
 </div>
+    
+<div align="center">
+  <h2>Tech Stack</h2>
+</div>
 
 <div>
     <img height="32.5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -18,7 +22,9 @@
 </div>
 
  ##
- 
+ <div align="center">
+   <h2>Contate-me!</h2>
+ </div>
 <div> 
   <a href="https://instagram.com/x_kauee" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:kauefreitas019@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
