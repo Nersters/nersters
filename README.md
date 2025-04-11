@@ -1,9 +1,12 @@
 ## 👨🏻‍💻​ Kauê Freitas
+**`Programador FullStack em desenvolvimento`**
+
 Chamo-me Kauê Freitas, tenho 19 anos e sou natural do Maranhão. Atualmente, estou cursando o quarto período do curso de BICT – Bacharelado Interdisciplinar de Ciência e Tecnologia – na Universidade Federal do Maranhão, com a pretensão de seguir na Engenharia da Computação.
-##
-    
+
+---
+
+### 💻​ Linguagens e Tecnologias​ 
 <div>
-  <h2>💻​ Linguagens e Tecnologias​</h2>
     <img height="32.5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
     <img height="32.5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
     <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
