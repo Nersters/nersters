@@ -4,6 +4,14 @@
 Chamo-me Kauê Freitas, tenho 19 anos e sou natural do Maranhão. No momento, estou cursando o quarto período do curso de BICT – Bacharelado Interdisciplinar de Ciência e Tecnologia – na Universidade Federal do Maranhão, com a pretensão de seguir na Engenharia da Computação.
 
 ---
+<p align="center">
+  <a href="https://github.com/nersters">
+    <img src="https://img.shields.io/github/followers/gabriellsx?label=Seguidores&style=social" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/nersters">
+    <img src="https://img.shields.io/github/stars/gabriellsx?label=Stars&style=social" alt="GitHub Stars" />
+  </a>
+</p>
 
 ## 💻​ Linguagens e Tecnologias​ 
 
