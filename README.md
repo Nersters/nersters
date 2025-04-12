@@ -17,7 +17,7 @@ Chamo-me Kauê Freitas, tenho 19 anos e sou natural do Maranhão. No momento, es
 
 ---
 
-##  Progresso Dev
+## 🤯 Progresso Dev
 
 🧠 Lógica de programação: ██████████ 100%  
 🐍 Python Básico:         ██████████ 100%  
