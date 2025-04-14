@@ -1,7 +1,8 @@
-## 👨🏻‍💻​ Kauê Freitas
+## <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=250&height=70&duration=3250&lines=Olá!;+Eu+sou+o+Kauê!;&color=ffffff" />
+
 **`Programador FullStack em desenvolvimento`**
 
-Chamo-me Kauê Freitas, tenho 19 anos e sou natural do Maranhão. No momento, estou cursando o quarto período do curso de BICT – Bacharelado Interdisciplinar de Ciência e Tecnologia – na Universidade Federal do Maranhão, com a pretensão de seguir na Engenharia da Computação.
+Chamo-me Kauê Freitas, tenho 19 anos e sou natural do Maranhão. No momento, estou cursando o quarto período do curso de BICT – Bacharelado Interdisciplinar de Ciência e Tecnologia – na Universidade Federal do Maranhão, com a pretensão de seguir na Engenharia da Computação. Atualmente, sou também estudante de programação da INCODE Tech School, onde alimento minha paixão por tecnologia e transformo curiosidade em código.
 
 ---
 
@@ -61,10 +62,6 @@ Chamo-me Kauê Freitas, tenho 19 anos e sou natural do Maranhão. No momento, es
     src="https://github-readme-stats.vercel.app/api?username=nersters&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
 />    
 </td>     
-   <td>
-       
-  ![](https://github-contributor-stats.vercel.app/api?username=nersters&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)     
-</td>
      <td>
          <img 
     align="left" 
@@ -77,6 +74,20 @@ Chamo-me Kauê Freitas, tenho 19 anos e sou natural do Maranhão. No momento, es
  </tr>
 </table>
 
+<table align="center">
+ <tr>
+      <td>
+
+   ![](https://github-contributor-stats.vercel.app/api?username=nersters&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+</td>     
+     <td>
+       
+   ![](https://nirzak-streak-stats.vercel.app/?user=nersters&theme=tokyonight&hide_border=false)
+</td>  
+ </tr>
+</table>
+
+
 ## 📧​ Conecte-se comigo!
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/x_kauee) 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauê-freitas-dos-santos) 
@@ -87,6 +98,9 @@ Chamo-me Kauê Freitas, tenho 19 anos e sou natural do Maranhão. No momento, es
 ![snake gif](https://github.com/nersters/nersters/blob/output/github-snake-dark.svg)
 
 <p align="center"><b>🎭​ "Não se trata do poder; a sua individualidade não define quem vai ser." </b></p>
+
+> *Este repositório é só o começo — uma vitrine em construção de ideias, códigos e evolução. Volte sempre, porque cada commit carrega um pouco mais de mim.*
+> 
 
 
 
