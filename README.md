@@ -4,6 +4,13 @@
 Chamo-me Kauê Freitas, tenho 19 anos e sou natural do Maranhão. No momento, estou cursando o quarto período do curso de BICT – Bacharelado Interdisciplinar de Ciência e Tecnologia – na Universidade Federal do Maranhão, com a pretensão de seguir na Engenharia da Computação.
 
 ---
+
+<div align="center" class="animated-header">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Ciência+e+Tecnologia++🧬​;Engenharia+da+Computação+💻;&font=Fira%20Code&center=true&width=440&height=45&color=FF0000&vCenter=true&pause=1000&size=22" />
+</div>
+
+
+
 <p align="center">
   <a href="https://github.com/nersters">
     <img src="https://img.shields.io/github/followers/gabriellsx?label=Seguidores&style=social" alt="GitHub Followers" />
@@ -62,6 +69,10 @@ Chamo-me Kauê Freitas, tenho 19 anos e sou natural do Maranhão. No momento, es
     src="https://github-readme-stats.vercel.app/api?username=nersters&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
 />    
 </td>     
+   <td>
+       
+  ![](https://github-contributor-stats.vercel.app/api?username=nersters&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)     
+</td>
      <td>
          <img 
     align="left" 
@@ -69,10 +80,12 @@ Chamo-me Kauê Freitas, tenho 19 anos e sou natural do Maranhão. No momento, es
     height="125" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=nersters&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </td>
+     
  </tr>
 </table>
+
+##
 
 ---
 
