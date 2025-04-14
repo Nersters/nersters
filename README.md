@@ -7,7 +7,7 @@ Chamo-me Kauê Freitas, tenho 19 anos e sou natural do Maranhão. No momento, es
 ---
 
 <div align="center" class="animated-header">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Ciência+e+Tecnologia++🧬​;Engenharia+da+Computação+💻;&font=Fira%20Code&center=true&width=440&height=45&color=FF0000&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Ciência+e+Tecnologia++🧬​;Engenharia+da+Computação+💻;&font=Fira%20Code&duration=3250&center=true&width=440&height=45&color=FF0000&vCenter=true&pause=1000&size=22" />
 </div>
 
 
