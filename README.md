@@ -1,4 +1,4 @@
-## <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=250&height=70&duration=3250&lines=Olá!;+Eu+sou+o+Kauê!;&color=ffffff" />
+## <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=250&height=70&duration=3250&lines=Olá,+pessoal!;+Eu+sou+o+Kauê!;&color=ffffff" />
 
 **`Programador FullStack em desenvolvimento`**
 
