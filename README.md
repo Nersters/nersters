@@ -1,6 +1,6 @@
 ## <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=250&height=70&duration=3250&lines=Olá,+pessoal!;+Eu+sou+o+Kauê!;&color=ffffff" />
 
-**`Programador FullStack em desenvolvimento`**
+**`Programador FrontEnd em desenvolvimento`**
 
 Chamo-me Kauê Freitas, tenho 19 anos e sou natural do Maranhão. No momento, estou cursando o quarto período do curso de BICT – Bacharelado Interdisciplinar de Ciência e Tecnologia – na Universidade Federal do Maranhão, com a pretensão de seguir na Engenharia da Computação. Atualmente, sou também estudante de programação da INCODE Tech School, onde alimento minha paixão por tecnologia e transformo curiosidade em código.
 
